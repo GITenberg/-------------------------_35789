@@ -1,0 +1,38 @@
+_repo: '-------------------------_35789'
+_version: 0.1.0
+alternative_title: Symposium
+contributor:
+  translator:
+    agent_name: Kountouriotes, Nikolaos
+    aliases:
+    - Kountouriotis, Nikos
+    - Κουντουριώτης, Νίκος
+    gutenberg_agent_id: '37902'
+    url: http://www.gutenberg.org/2009/agents/37902
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2011-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35789'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socrates, 470 BC-399 BC'
+- !lcc 'B'
+- !lcsh 'Love -- Early works to 1800'
+title: 'Συμπόσιον : ή περί έρωτος'
+url: http://www.gutenberg.org/ebooks/35789
